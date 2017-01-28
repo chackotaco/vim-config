@@ -155,7 +155,7 @@ endif
 set number
 
 try
-    colorscheme default
+    colorscheme vividchalk
 catch
 endtry
 
